@@ -2,4 +2,4 @@
 
 nom = input("Escribe tu nombre: ")
 
-print("Hola " + nom + "!!")
+print(f"Hola {nom}!!")
